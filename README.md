@@ -1,13 +1,13 @@
-Desafio_Banco
-Projeto desenvolvido em Java que simula operações básicas de um banco digital orientado a objetos.
+🏦 Desafio_Banco
+Projeto em Java que simula operações básicas de um banco digital, utilizando conceitos de Programação Orientada a Objetos (POO).
 
-Funcionalidades
-Criação e gerenciamento de contas bancárias
+🚀 Funcionalidades
+💳 Criação e gerenciamento de contas bancárias
 
-Depósito e saque de valores
+💰 Depósito e saque de valores
 
-Transferência entre contas
+🔄 Transferência entre contas
 
-Exibição de saldo e dados do cliente
+📊 Consulta de saldo e informações do cliente
 
-Uso de encapsulamento e conceitos de Programação Orientada a Objetos
+🔐 Aplicação de encapsulamento para proteger dados
